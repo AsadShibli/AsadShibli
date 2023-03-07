@@ -21,6 +21,13 @@ Having passion for machine learning, deep learning, and embedded systems drives 
 
 <img  align='left' width=15% src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 
+
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 #### Reach me on:
 - My profile in [LinkedIn](https://www.linkedin.com/in/md-asadullah-shibli-071543258/) 💼 
 - My website [www.Asadullah.com](https://asadshibli.github.io/portfolio-website/) 📹 ✍🏾
