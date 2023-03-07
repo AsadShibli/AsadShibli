@@ -18,7 +18,7 @@ Having passion for machine learning, deep learning, and embedded systems drives 
 <img align='left' width=8% src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img align='left' width=8% src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 
-<img  align='left' width=8% src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img  width=8% src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 #### Reach me on:
 - My profile in [LinkedIn](https://www.linkedin.com/in/md-asadullah-shibli-071543258/) 💼 
