@@ -3,13 +3,10 @@
 
 Having passion for machine learning, deep learning, and embedded systems drives me to seek out new challenges and opportunities to apply my knowledge and ideas. I believe that every project is a chance to learn something new and gain valuable experience, whether through success or failure. Ultimately, satisfaction comes from the process of discovery and growth that occurs along the way.
 
-#### Reach me on:
-- My profile in [LinkedIn](https://www.linkedin.com/in/md-asadullah-shibli-071543258/) 💼 
-- My website [www.Asadullah.com](https://asadshibli.github.io/portfolio-website/) 📹 ✍🏾
 
 #### *My Github stats*
 <img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=AsadShibli&show_icons=true&theme=tokyonight"/>
-<img align='left' width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadShibli&layout=compact" style="margin-bottom: 20px;"/>
+<img  width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadShibli&layout=compact" style="margin-bottom: 20px;"/>
 
 <img align='left' width=8% src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align='left' width=8% src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,4 +18,8 @@ Having passion for machine learning, deep learning, and embedded systems drives 
 <img align='left' width=8% src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img align='left' width=8% src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 
-<img align='left' width=8% src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img  width=8% src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+#### Reach me on:
+- My profile in [LinkedIn](https://www.linkedin.com/in/md-asadullah-shibli-071543258/) 💼 
+- My website [www.Asadullah.com](https://asadshibli.github.io/portfolio-website/) 📹 ✍🏾
