@@ -5,8 +5,11 @@ Having passion for machine learning, deep learning, and embedded systems drives 
 
 
 ### *My Github stats*
-<img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=AsadShibli&show_icons=true&theme=tokyonight"/>
-<img  width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadShibli&layout=compact" style="margin-bottom: 20px;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=AsadShibli&show_icons=true&theme=tokyonight" style="max-width: 100%; margin-bottom: 20px;">
+    <img  width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadShibli&layout=compact" style="max-width: 100%; margin-bottom: 20px;">
+</div>
+
 
 
 
