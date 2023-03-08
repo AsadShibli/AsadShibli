@@ -7,10 +7,9 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    permissions: read-all|write-all
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://dev.to/feed/rahuldkjain, https://medium.com/feed/@rahuldkjain'
+          feed_list: 'https://medium.com/feed/@mdasadullahshibli'
