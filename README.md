@@ -16,20 +16,10 @@ Having passion for machine learning, deep learning  drives me to seek out new ch
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Deep Learning and Computer Visoion**
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
-
-- 👯 I’m looking to collaborate on **Machine Learning**
-
-- 🤝 I’m looking for help with **Deep Learning and NLP**
-
-- 💬 Ask me about **Machine Learning**
-
-
-
-
-
+- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning**
+- 💬 Ask me about **Deep Learning and Computer Visoion**
 
 
 <br/>
