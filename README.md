@@ -29,13 +29,6 @@ Having passion for machine learning, deep learning  drives me to seek out new ch
 
 <br/>
 
-#### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
 <br/>
 
 ### Reach me on:
