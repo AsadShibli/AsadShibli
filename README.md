@@ -1,5 +1,5 @@
 ## Hi there, it's Asad 👋 (MD. Asadullah Shibli)
-#### Maachine Learning | Computer Vision Enthusiastic
+#### Machine Learning | Computer Vision Enthusiastic
 
 I am currently pursuing my Bachelor of Science in Computer Science at IUBAT. My passion for machine learning and deep learning fuels my enthusiasm to embrace new challenges and explore opportunities to apply my knowledge and ideas.
 
