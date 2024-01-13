@@ -36,6 +36,7 @@ Having passion for machine learning, deep learning  drives me to seek out new ch
 <br/>
 
 ### Reach me on:
-- [LinkedIn](https://www.linkedin.com/in/md-asadullah-shibli-071543258/) 💼
-- [FaceBook](https://www.facebook.com/profile.php?id=100076791827321/)
-- [Mail](mdasadullahshibli@gmail.com) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-asadullah-shibli-071543258/)
+- [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue.svg?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100076791827321/)
+- [![Email](https://img.shields.io/badge/Email-Contact-blue.svg?style=flat-square&logo=gmail)](mailto:mdasadullahshibli@gmail.com)
+
