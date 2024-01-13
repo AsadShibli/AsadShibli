@@ -20,6 +20,9 @@ I am currently pursuing my Bachelor of Science in Computer Science at IUBAT. My 
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning**
 - 💬 Ask me about **Deep Learning and Computer Visoion**
+- 🌱 My philosophy centers around the belief that the importance of today surpasses that of tomorrow
+- 🚀 Dedication fuels resilience; I don't give up, I give it my all until the finish line.
+- 😅 Fun fact: I love to play football and travel . 
 
 
 <br/>
