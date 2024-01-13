@@ -1,7 +1,7 @@
 ## Hi there, it's Asad 👋 (MD. Asadullah Shibli)
 #### Maachine Learning | Computer Vision Enthusiastic
 
-Having passion for machine learning, deep learning  drives me to seek out new challenges and opportunities to apply my knowledge and ideas. I believe that every project is a chance to learn something new and gain valuable experience, whether through success or failure. Ultimately, satisfaction comes from the process of discovery and growth that occurs along the way.
+I am currently pursuing my Bachelor of Science in Computer Science at IUBAT. My passion for machine learning and deep learning fuels my enthusiasm to embrace new challenges and explore opportunities to apply my knowledge and ideas.
 
 
 ### *My Github stats*
