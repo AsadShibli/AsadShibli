@@ -1,9 +1,13 @@
-## Hi there, it's Asad 👋 (MD. Asadullah Shibli)
-####  AI & Computer Vision Engineer | Innovating Advanced Image & Video Analysis Technologies
+<h2 style="text-align: center;">Hi there, it's Asad 👋 (MD. Asadullah Shibli)</h2>
+<h4 style="text-align: center;">AI & Computer Vision Engineer | Innovating Advanced Image & Video Analysis Technologies</h4>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
 
 As a Computer Science student at IUBAT, I specialize in leveraging AI and machine learning to address real-world challenges in computer vision. My focus is on developing solutions for tasks such as object identification, image analysis, and facial recognition, aiming to streamline processes, enhance decision-making, and elevate user experiences.
 
 With hands-on experience in AI-driven projects and a strong foundation in computer science, I am eager to collaborate on innovative projects that make a tangible impact. If you're interested in exploring how AI technology can benefit your business, please feel free to reach out. Let's achieve your goals together!
+
 
 
 ### *My Github stats*
@@ -16,7 +20,6 @@ With hands-on experience in AI-driven projects and a strong foundation in comput
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning and Computer Visoion**
 - 👯 I’m looking to collaborate on **AI and Machine Learning projects**
