@@ -2,8 +2,10 @@
 #### <div align="center">AI & Computer Vision Engineer | Innovating Advanced Image & Video Analysis Technologies</div>
 
 
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
+
 
 
 
@@ -11,6 +13,7 @@ I specialize in leveraging AI and machine learning to address real-world challen
 
 With hands-on experience in AI-driven projects and a strong foundation in computer science, I am eager to collaborate on innovative projects that make a tangible impact. If you're interested in exploring how AI technology can benefit your business, please feel free to reach out. Let's achieve your goals together!
 
+<br/>
 
 
 ### *My Github stats*
@@ -22,9 +25,10 @@ With hands-on experience in AI-driven projects and a strong foundation in comput
 
 
 
+<br/>
+<br/>
 
-
-- 🔭 I’m currently working on **Deep Learning and Computer Visoion**
+- 🔭 I’m currently working on **Deep Learning and Computer Vision**
 - 👯 I’m looking to collaborate on **AI and Machine Learning projects**
 - 💬 Ask me about **object identification, image analysis, and facial recognition**
 - 🌱  My philosophy centers around the belief that technology should solve real-world problems and enhance user experiences.
