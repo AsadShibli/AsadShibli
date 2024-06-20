@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
 
-<p align="left" dir="auto"> <a href="https://twitter.com/shibliasadullah" rel="nofollow"><img src="https://camo.githubusercontent.com/e892f50e44e1a1a1d1cb9852efbb5b60aeb23bc4ac421047fdd560f83fcd0056/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6e69656c73656e63765f61693f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765" alt="shibliasadullah" data-canonical-src="https://img.shields.io/twitter/follow/shibliasadullah?logo=twitter&amp;style=for-the-badge" style="max-width: 100%;"></a> </p>
 
-As a Computer Science student at IUBAT, I specialize in leveraging AI and machine learning to address real-world challenges in computer vision. My focus is on developing solutions for tasks such as object identification, image analysis, and facial recognition, aiming to streamline processes, enhance decision-making, and elevate user experiences.
+
+I specialize in leveraging AI and machine learning to address real-world challenges in computer vision. My focus is on developing solutions for tasks such as object identification, image analysis, and facial recognition, aiming to streamline processes, enhance decision-making, and elevate user experiences.
 
 With hands-on experience in AI-driven projects and a strong foundation in computer science, I am eager to collaborate on innovative projects that make a tangible impact. If you're interested in exploring how AI technology can benefit your business, please feel free to reach out. Let's achieve your goals together!
 
@@ -37,7 +37,7 @@ With hands-on experience in AI-driven projects and a strong foundation in comput
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
