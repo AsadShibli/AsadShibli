@@ -8,13 +8,11 @@
 
 
 
-
+<p align="left">
 I specialize in leveraging AI and machine learning to address real-world challenges in computer vision. My focus is on developing solutions for tasks such as object identification, image analysis, and facial recognition, aiming to streamline processes, enhance decision-making, and elevate user experiences.
 
 With hands-on experience in AI-driven projects and a strong foundation in computer science, I am eager to collaborate on innovative projects that make a tangible impact. If you're interested in exploring how AI technology can benefit your business, please feel free to reach out. Let's achieve your goals together!
-
-<br/>
-
+</p>
 
 ### *My Github stats*
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
