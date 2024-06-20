@@ -1,7 +1,9 @@
 ## Hi there, it's Asad 👋 (MD. Asadullah Shibli)
-#### Machine Learning | Computer Vision Enthusiastic
+####  AI & Computer Vision Engineer | Innovating Advanced Image & Video Analysis Technologies
 
-I am currently pursuing my Bachelor of Science in Computer Science at IUBAT. My passion for machine learning and deep learning fuels my enthusiasm to embrace new challenges and explore opportunities to apply my knowledge and ideas.
+As a Computer Science student at IUBAT, I specialize in leveraging AI and machine learning to address real-world challenges in computer vision. My focus is on developing solutions for tasks such as object identification, image analysis, and facial recognition, aiming to streamline processes, enhance decision-making, and elevate user experiences.
+
+With hands-on experience in AI-driven projects and a strong foundation in computer science, I am eager to collaborate on innovative projects that make a tangible impact. If you're interested in exploring how AI technology can benefit your business, please feel free to reach out. Let's achieve your goals together!
 
 
 ### *My Github stats*
@@ -17,16 +19,15 @@ I am currently pursuing my Bachelor of Science in Computer Science at IUBAT. My 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning and Computer Visoion**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning**
-- 💬 Ask me about **Deep Learning and Computer Visoion**
-- 🌱 My philosophy centers around the belief that the importance of today surpasses that of tomorrow
+- 👯 I’m looking to collaborate on **AI and Machine Learning projects**
+- 💬 Ask me about **object identification, image analysis, and facial recognition**
+- 🌱  My philosophy centers around the belief that technology should solve real-world problems and enhance user experiences.
 - 🚀 Dedication fuels resilience; I don't give up, I give it my all until the finish line.
 - 😅 Fun fact: I love to play football and travel . 
 
 
 <br/>
-<h3 align="left">Skills</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
