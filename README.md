@@ -1,56 +1,55 @@
 ## <h1 align="center">Hi there, it's Asad 👋 (MD. Asadullah Shibli)</h1>
-#### <h3 align="center">AI & Computer Vision Engineer | Innovating Advanced Image & Video Analysis Technologies</h3>
-
+#### <h3 align="center">Aspiring AI Product Manager | Bridging Technology & Business Impact</h3>
 
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
 
+---
 
+### **About Me**  
+I’m transitioning into **AI product management** with a passion for transforming cutting-edge technology into user-centric solutions. My background in AI development gives me a unique edge in understanding technical feasibility, while my focus now lies in driving product strategy, market alignment, and startup innovation.  
 
-<p align="left">
-I specialize in using AI and machine learning to address real-world challenges in computer vision. My focus is on developing solutions for tasks such as object identification, image analysis, and facial recognition, aiming to streamline processes, enhance decision-making, and elevate user experiences.
+**What I Bring to the Table**:  
+🔹 **Strategic Mindset**: Prioritizing product roadmaps that solve real-world problems through AI.  
+🔹 **Cross-Functional Collaboration**: Bridging engineers, designers, and stakeholders to deliver scalable solutions.  
+🔹 **Startup Enthusiasm**: Exploring how AI can disrupt industries and empower early-stage ventures.  
 
-With hands-on experience in AI-driven projects and a strong foundation in computer science, I am eager to collaborate on innovative projects that make a tangible impact. If you're interested in exploring how AI technology can benefit your business, please feel free to reach out. Let's achieve your goals together!
-</p>
+---
 
-### *My Github stats*
+### **My Focus Areas**  
+- **AI Product Strategy**: Defining vision, metrics, and go-to-market plans for AI-driven products.  
+- **Market & Trend Analysis**: Generative AI, ethical tech, and vertical SaaS opportunities.  
+- **Community Building**: Sharing insights and learning from AI/PM leaders.  
+
+---
+
+### *My GitHub Activity*  
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=AsadShibli&show_icons=true&theme=tokyonight" style="max-width: 100%; margin-bottom: 20px;">
     <img  width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadShibli&layout=compact" style="max-width: 100%; margin-bottom: 20px;">
 </div>
 
+---
 
+### **Let’s Collaborate!**  
+- 🔭 I’m currently exploring **AI product-market fit** and **startup ecosystems**.  
+- 👯 I’m looking to collaborate on **AI product strategy** or **early-stage tech ventures**.  
+- 💬 Ask me about: AI trends, product roadmaps, or transitioning from engineering to PM.  
+- 🌱 My philosophy: *"Great products start with understanding people, not just technology."*  
+- 🚀 I thrive on turning ambiguity into actionable plans.  
 
+---
 
-<br/>
-<br/>
-
-- 🔭 I’m currently working on **Deep Learning and Computer Vision**
-- 👯 I’m looking to collaborate on **AI and Machine Learning projects**
-- 💬 Ask me about **object identification, image analysis, and facial recognition**
-- 🌱  My philosophy centers around the belief that technology should solve real-world problems and enhance user experiences.
-- 🚀 Dedication fuels resilience; I don't give up, I give it my all until the finish line.
-- 😅 Fun fact: I love to play football and travel . 
-
-
-<br/>
-<h3 align="left">Languages and Tools:</h3>
+### **Tools & Methods**  
 <p align="left">
-    <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,sklearn" alt="My Skills">
-</a>
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,figma,ai" alt="My Skills">
+  </a>
 </p>
 
+---
 
-
-<br/>
-
-<br/>
-
-### Reach me on:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-asadullah-shibli-071543258/)
-- [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue.svg?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100076791827321/)
-- [![Email](https://img.shields.io/badge/Email-Contact-blue.svg?style=flat-square&logo=gmail)](mailto:mdasadullahshibli@gmail.com)
-
+### **Let’s Connect**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-asadullah-shibli-071543258/)  
+- [![Email](https://img.shields.io/badge/Email-Contact-blue.svg?style=flat-square&logo=gmail)](mailto:mdasadullahshibli@gmail.com)  
