@@ -62,7 +62,7 @@ My project portfolio demonstrates my ability to handle the full CV pipeline—fr
 
 ## 🤝 Let's Collaborate!
 
-- 🔭 My portfolio includes **8+ hands-on CV projects** covering detection, tracking, segmentation, and classification
+- 🔭 Developed 8+ hands-on CV projects covering detection, tracking, segmentation, and classification.
 - 👯 I'm looking to contribute my skills to a fast-paced team as an **AI/CV Intern** or Junior Developer
 - 💬 Ask me about: **YOLOv8**, **Detectron2**, **MediaPipe**, **supervision**, or custom model training
 - 🌱 My philosophy: *"Great AI isn't just about the model; it's about building a reliable system that delivers real value."*
