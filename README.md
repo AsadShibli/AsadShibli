@@ -1,6 +1,6 @@
 # Hi there, I'm Asad 👋
-### MD. Asadullah Shibli
-#### AI & Computer Vision Developer | Object Detection & Tracking | Open to Remote Internships
+## MD. Asadullah Shibli
+#### AI & Computer Vision Student | Building Real-World ML Projects | Open to Remote Internships
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" />
