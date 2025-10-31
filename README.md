@@ -1,55 +1,88 @@
-## <h1 align="center">Hi there, it's Asad 👋 (MD. Asadullah Shibli)</h1>
-#### <h3 align="center">Aspiring AI Product Manager | Bridging Technology & Business Impact</h3>
+# Hi there, I'm Asad 👋
+### MD. Asadullah Shibli
+#### AI & Computer Vision Developer | Object Detection & Tracking | Open to Remote Internships
 
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" /> </p>
-
----
-
-### **About Me**  
-I’m transitioning into **AI product management** with a passion for transforming cutting-edge technology into user-centric solutions. My background in AI development gives me a unique edge in understanding technical feasibility, while my focus now lies in driving product strategy, market alignment, and startup innovation.  
-
-**What I Bring to the Table**:  
-🔹 **Strategic Mindset**: Prioritizing product roadmaps that solve real-world problems through AI.  
-🔹 **Cross-Functional Collaboration**: Bridging engineers, designers, and stakeholders to deliver scalable solutions.  
-🔹 **Startup Enthusiasm**: Exploring how AI can disrupt industries and empower early-stage ventures.  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" />
+</p>
 
 ---
 
-### **My Focus Areas**  
-- **AI Product Strategy**: Defining vision, metrics, and go-to-market plans for AI-driven products.  
-- **Market & Trend Analysis**: Generative AI, ethical tech, and vertical SaaS opportunities.  
-- **Community Building**: Sharing insights and learning from AI/PM leaders.  
+## 🚀 About Me
+
+I'm a Computer Science student specializing in **computer vision** and **deep learning**. I build practical, end-to-end AI systems that solve real-world problems by detecting, tracking, and analyzing objects in video and images.
+
+My project portfolio demonstrates my ability to handle the full CV pipeline—from **custom data annotation** (Roboflow, makesense.ai) and **model training** (YOLOv8, Detectron2) to implementing **real-time tracking** (ByteTrack, supervision) and **pose estimation** (MediaPipe).
+
+### What I Bring to the Table
+
+🔹 **Object Detection & Tracking:** Proven experience using YOLOv8, ByteTrack, and `supervision` to count and monitor objects (vehicles, people, golf balls) in real-time.
+
+🔹 **Custom Model Development:** Full-cycle experience in training models for specific tasks, including defect detection, instance segmentation, and imbalanced classification.
+
+🔹 **Diverse CV Applications:** Built projects spanning traffic management, crowd safety, industrial quality control (defect detection), pose estimation, and medical image segmentation.
+
+🔹 **Deployment & Prototyping:** Skilled at turning models into interactive applications using tools like **Gradio** and **Hugging Face**.
 
 ---
 
-### *My GitHub Activity*  
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=AsadShibli&show_icons=true&theme=tokyonight" style="max-width: 100%; margin-bottom: 20px;">
-    <img  width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadShibli&layout=compact" style="max-width: 100%; margin-bottom: 20px;">
-</div>
+## 💡 My Focus Areas
+
+- Building and optimizing real-time object detection and tracking pipelines
+- Training robust custom models for specialized instance segmentation and classification tasks
+- Applying deep learning to solve practical challenges in safety, logistics, and quality assurance
+- Actively seeking **remote internship** or **junior developer roles** in AI/Computer Vision
 
 ---
 
-### **Let’s Collaborate!**  
-- 🔭 I’m currently exploring **AI product-market fit** and **startup ecosystems**.  
-- 👯 I’m looking to collaborate on **AI product strategy** or **early-stage tech ventures**.  
-- 💬 Ask me about: AI trends, product roadmaps, or transitioning from engineering to PM.  
-- 🌱 My philosophy: *"Great products start with understanding people, not just technology."*  
-- 🚀 I thrive on turning ambiguity into actionable plans.  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsadShibli&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadShibli&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### **Tools & Methods**  
+## 🛠️ Tech Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,github,figma,ai" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,github," alt="Tech Stack" />
+  </a>
+</p>
+
+**Key Libraries & Frameworks:**
+- Computer Vision: YOLOv8, Detectron2, MediaPipe, OpenCV, supervision
+- Deep Learning: PyTorch, TensorFlow
+- Deployment: Gradio, Hugging Face
+- Tools: Roboflow, makesense.ai, Git
+
+---
+
+## 🤝 Let's Collaborate!
+
+- 🔭 My portfolio includes **8+ hands-on CV projects** covering detection, tracking, segmentation, and classification
+- 👯 I'm looking to contribute my skills to a fast-paced team as an **AI/CV Intern** or Junior Developer
+- 💬 Ask me about: **YOLOv8**, **Detectron2**, **MediaPipe**, **supervision**, or custom model training
+- 🌱 My philosophy: *"Great AI isn't just about the model; it's about building a reliable system that delivers real value."*
+- 🚀 I thrive on turning complex video/image data into actionable, automated insights
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-asadullah-shibli-071543258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mdasadullahshibli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### **Let’s Connect**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-asadullah-shibli-071543258/)  
-- [![Email](https://img.shields.io/badge/Email-Contact-blue.svg?style=flat-square&logo=gmail)](mailto:mdasadullahshibli@gmail.com)  
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/AsadShibli">AsadShibli</a></i>
+</p>
