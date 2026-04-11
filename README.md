@@ -58,8 +58,8 @@ I don't just build models; I **Red-Team** them. My current research focuses on *
 ## 📊 Engineering Impact
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=AsadShibli&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AsadShibli&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AsadShibli&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AsadShibli&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
 </p>
 
 ---
