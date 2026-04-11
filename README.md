@@ -61,6 +61,7 @@ I don't just build models; I **Red-Team** them. My current research focuses on *
   <img width="48%" src="https://github-readme-stats.shion.dev/api?username=AsadShibli&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AsadShibli&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
 
 ## 🤝 Let's Build Something Unbreakable
@@ -68,7 +69,7 @@ I don't just build models; I **Red-Team** them. My current research focuses on *
 - 🔭 **Current Focus:** Developing a "Robustness Audit Tool" for early-stage AI startups.
 - 👯 **Looking to Collaborate:** With remote-first teams building **Secure Vision + Agents**.
 - 💬 **Ask me about:** Why your YOLO model fails in the rain, and how to fix it with **Adversarial Defense**.
-- ⚡ **Fun Fact:** I treat model vulnerabilities like a chess game—I'm always looking for the move that breaks the system.
+- ⚡ **Fun Fact:** I treat model vulnerabilities like a chess game, I'm always looking for the move that breaks the system.
 
 ---
 
