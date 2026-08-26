@@ -1,9 +1,9 @@
 <div align="center">
 
-# Shibli · Applied AI Engineer
+# Shibli · Full-Stack Web Developer
 
-### Building AI that survives **Real-World Chaos**
-*Bad lighting. Noisy data. Adversarial intent. Production environments.*
+### Shipping web products that hold up in **production**
+*Next.js · Express · PostgreSQL · then Computer Vision when the product needs it.*
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" />
@@ -18,19 +18,19 @@
 
 ## The Mission
 
-Most AI models thrive in Jupyter Notebooks. They fail in production.
+I build **full-stack web apps** — screens, APIs, auth, and a database that stays isolated per tenant — then ship them.
 
-I bridge that gap, building **Robust Computer Vision Pipelines** and **Secure Agentic Systems** that are containerized, defended against inference-time attacks, and ready for the messiness of the real world.
+AI is a second skill I reach for when the product needs vision or automation: counting, tracking, OCR. The web app is still the product.
 
 ---
 
-## 🛡️ Deep Spike: Adversarial Robustness
+## 🛡️ Deep Spike: Multi-tenant SaaS
 
-I don't just build models, I **Red-Team** them.
+I don't just render pages. I **isolate data**.
 
-My research centers on **Adversarial Defense**: hardening vision systems against perturbations (FGSM, PGD) that crash standard APIs in real deployment.
+StudioDesk shares one Postgres between studios. The dangerous bug is a missed `WHERE orgId`. `prismaForOrg(orgId)` injects the tenant on every query so Harbor cannot see Northshore's clients.
 
-> **Philosophy:** If a model isn't robust against noise, it isn't ready for production.
+> **Philosophy:** If a missed filter can leak another customer's data, the architecture is not done.
 
 ---
 
@@ -38,39 +38,42 @@ My research centers on **Adversarial Defense**: hardening vision systems against
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,linux,aws,git,github" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,prisma,supabase,docker,vercel,python,pytorch" alt="Tech Stack" />
   </a>
 </p>
 
 | Domain | Tools |
 |---|---|
-| **Computer Vision** | YOLO (v8–v11), SAM, OpenCV, MediaPipe, Supervision |
-| **Robustness & Security** | FGSM / PGD Attacks, Model Auditing, Input Sanitization |
-| **AI Agents** | LangGraph, LangChain, Function Calling, Multi-Agent Workflows |
-| **Deployment & MLOps** | Docker, FastAPI, ONNX Runtime, GitHub Actions |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express, Zod, REST APIs |
+| **Database** | PostgreSQL, Prisma, Supabase |
+| **Auth & Access** | Session cookies, RBAC, feature flags |
+| **Deploy** | Vercel, Docker, pnpm workspaces |
+| **Computer Vision** | YOLO, OpenCV, ByteTrack, Supervision |
+| **AI** | PyTorch, FastAPI, LangGraph |
 
 ---
 
 ## 📂 Featured Systems
 
-### 🛡️ Adversarial Defense Layer
-Custom module shielding vision APIs from gradient-based attacks. Reduced model failure rate by **40%** via proactive denoising and robust training architectures.
+### 🗂️ [StudioDesk](https://github.com/AsadShibli/studiodesk) · [Live](https://studiodesk-one.vercel.app)
+Multi-tenant studio ops: clients, bookings, invoices. Next.js UI, Express API, Postgres + Prisma. RBAC, plan flags, CSV import with undo. The browser never talks to the database.
 
-`Python` `PyTorch` `Adversarial Robustness`
-
----
-
-### 🏗️ Industrial Vision Tracker *(Production-Ready)*
-High-speed object tracking for automated counting. Boosted accuracy by **28%** in low-visibility environments. Fully Dockerized for edge deployment.
-
-`YOLOv11` `ByteTrack` `Docker` `FastAPI`
+`Next.js` `Express` `PostgreSQL` `Prisma`
 
 ---
 
-### 🤖 Agentic CV Pipeline
-A LangGraph-based autonomous workflow performing multi-stage vision tasks with integrated security checks and automated reporting.
+### 🌉 [Dropbridge](https://github.com/AsadShibli/dropbridge) · [Live](https://dropbridge-kappa.vercel.app)
+Ephemeral file and note transfer between your devices. Everything hard-deletes after 48 hours. Auth, private storage, and a cron job — no leftover files on a public machine.
 
-`LangGraph` `GPT-4o / Gemini` `Vision`
+`Next.js` `Supabase` `TypeScript` `Vercel`
+
+---
+
+### ⛳ [Golf Ball Track & Count](https://github.com/AsadShibli/Golf-Ball-Track-Count)
+Custom YOLOv8 + ByteTrack for detecting, tracking, and counting golf balls across a line. Same family as [railway people counting](https://github.com/AsadShibli/railway-people-counting).
+
+`YOLOv8` `ByteTrack` `Supervision` `OpenCV`
 
 ---
 
@@ -85,13 +88,13 @@ A LangGraph-based autonomous workflow performing multi-stage vision tasks with i
 
 ## 🤝 Let's Connect
 
-- 🔭 **Current Focus** : Building a *Robustness Audit Tool* for early-stage AI startups
-- 👯 **Open to Collaborate** : Remote-first teams working on Secure Vision + Agents
-- 💬 **Ask Me About** : Why your YOLO model fails in the rain, and how adversarial defense fixes it
-- ⚡ **Fun Fact** : I treat model vulnerabilities like chess: always looking for the move that breaks the system
+- 🔭 **Current Focus** : Shipping full-stack web apps — StudioDesk, Dropbridge, and the next product after that
+- 👯 **Open to Collaborate** : Product teams building with Next.js, Node, and Postgres
+- 💬 **Ask Me About** : Tenant isolation, session cookies vs JWT, Prisma, and when YOLO is the right tool
+- ⚡ **Fun Fact** : I would rather ship a boring session cookie than a JWT I cannot revoke
 
 ---
 
 <div align="center">
-  <i>"Great AI isn't just about the model : it's about building a system reliable enough to deliver real value."</i>
+  <i>"Great software isn't just the UI — it's a system reliable enough to deliver real work."</i>
 </div>
