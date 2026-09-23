@@ -3,7 +3,7 @@
 # Shibli · Full-Stack Web Developer
 
 ### Shipping web products that hold up in **production**
-*Next.js · Express · PostgreSQL · AI - any tech the product needs *
+Next.js · Express · PostgreSQL · AI - any tech the product needs 
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" />
