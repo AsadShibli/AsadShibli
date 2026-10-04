@@ -9,6 +9,7 @@ Next.js · Express · Django REST · PostgreSQL · Docker · AI
   <img src="https://komarev.com/ghpvc/?username=asadshibli&label=Profile%20views&color=0e75b6&style=flat" alt="asadshibli" />
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B7CF8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-inky-eight-87.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibliasadullah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdasadullahshibli@gmail.com)
 
@@ -111,6 +112,7 @@ Custom YOLOv8 + ByteTrack for detecting, tracking, and counting golf balls acros
 
 ## 🤝 Let's Connect
 
+- 🌐 **Portfolio** : [portfolio-inky-eight-87.vercel.app](https://portfolio-inky-eight-87.vercel.app) (projects, live demos, and a contact form)
 - 🔭 **Current Focus** : Shipping full-stack web apps and strengthening my backend skills in Python (Django, FastAPI) and Node
 - 👯 **Open to Collaborate** : Product teams building with Next.js/React, Node or Django, and Postgres
 - 💬 **Ask Me About** : Tenant isolation, transactions and race conditions, JWT in httpOnly cookies vs session cookies, Prisma, and LLM validation
